@@ -1,9 +1,9 @@
-# AzureRMAppGWCert
+# AzAppGWCert
 Powershell Module to list all certificates from an Azure Application Gateway
 
 # How to Install
 
-This Module is Published at https://www.powershellgallery.com/packages/AzureRMAppGWCert
+This Module is Published at https://www.powershellgallery.com/packages/AzAppGWCert
 
 In order to install just open the powershell as Administrator and type: 
 
